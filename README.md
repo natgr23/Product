@@ -13,7 +13,7 @@
  ## Запуск проекта
 1. Клонировать репозиторий
    ```sh
-   git clone https://github.com/natgr23/product
+   git clone https://github.com/natgr23/Product
    ```
 2. Установить пакеты
    ```sh
